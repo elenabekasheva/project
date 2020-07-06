@@ -14,3 +14,11 @@ body {
 p {
     font-size: 18px;
 }
+.nav {
+    float: right; 
+    width: 100px;
+}
+.nav-link {
+    color: #FFF;
+    text-decoration: none;
+} 
