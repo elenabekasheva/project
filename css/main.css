@@ -1,6 +1,11 @@
 body {
     background: #888888;
 }
+.content-title {
+    font-size: 54px;
+    color: #31405b;
+    font-weight: 700;
+}
 p {
     font-size: 18px;
 }
