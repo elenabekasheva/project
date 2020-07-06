@@ -6,6 +6,11 @@ body {
     color: #31405b;
     font-weight: 700;
 }
+.content-text {
+    margin-bottom: 40px;
+}
+
+}
 p {
     font-size: 18px;
 }
